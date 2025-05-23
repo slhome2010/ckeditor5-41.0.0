@@ -1,0 +1,7 @@
+{
+  "name": "@ckeditor/ckeditor5-build-attributico",
+  "version": "1.0.0",
+  "main": "ckeditor.js",
+  "types": "ckeditor.d.ts",
+  "style": "ckeditor.css"
+}
