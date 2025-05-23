@@ -1,0 +1,5 @@
+{
+  "name": "@ckeditor/ckeditor5-build-online",
+  "main": "ckeditor.js",
+  "types": "ckeditor.d.ts"
+}
